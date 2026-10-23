@@ -1,8 +1,11 @@
-# librelinkup-monitor
+<div align="center">
+  <img src="assets/icon.png" alt="LibreLinkUp Monitor" width="140" style="border-radius: 24px;" />
+  <h1>librelinkup-monitor</h1>
+  <p><strong>Autonomous Continuous Glucose Monitoring (CGM) companioning for Abbott FreeStyle Libre sensors</strong></p>
+  <p><em>Engineered for the <a href="https://hermes-agent.nousresearch.com">Hermes Agent</a> ecosystem by Syzygy Studios & the Nous Research Community</em></p>
+</div>
 
-> Autonomous Continuous Glucose Monitoring (CGM) companioning for Abbott FreeStyle Libre sensors via the LibreLinkUp caregiver cloud API (`pylibrelinkup`).
-
-Developed for the [Hermes Agent](https://hermes-agent.nousresearch.com) ecosystem by the Nous Research community and Syzygy Studios.
+<br />
 
 ---
 
